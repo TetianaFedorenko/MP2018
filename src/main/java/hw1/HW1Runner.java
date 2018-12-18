@@ -1,3 +1,7 @@
+package hw1;
+
+import hw1.HW1;
+
 /**
  * Created by Tetiana on 18-Dec-18.
  */
